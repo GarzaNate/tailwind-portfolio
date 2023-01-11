@@ -11,26 +11,38 @@ const Portfolio = () => {
     {
       id: 1,
       src: dreamJob,
+      link: "https://sheetaljwl795.github.io/dream-job-finder/",
+      repo: "https://github.com/sheetaljwl795/dream-job-finder",
     },
     {
       id: 2,
       src: eCommerce,
+      link: "",
+      repo: "https://github.com/GarzaNate/E-Commerce-Backend",
     },
     {
       id: 3,
       src: employeeTracker,
+      link: "https://drive.google.com/file/d/1If8XyUEfQNAAEQkPYaI1k4XcDJMGwumD/view",
+      repo: "https://github.com/GarzaNate/Employee-tracker",
     },
     {
       id: 4,
       src: jate,
+      link: "https://desolate-citadel-42669.herokuapp.com",
+      repo: "https://github.com/GarzaNate/Jate-Text-Editor",
     },
     {
       id: 5,
       src: noteTaker,
+      link: "",
+      repo: "https://github.com/GarzaNate/Note-taker",
     },
     {
       id: 6,
       src: teamGenerator,
+      link: "",
+      repo: "https://github.com/GarzaNate/team-profile-generator",
     },
   ];
 
@@ -48,7 +60,7 @@ const Portfolio = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          {portfolios.map(({ id, src }) => (
+          {portfolios.map(({ id, src, link, repo }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
@@ -57,10 +69,10 @@ const Portfolio = () => {
               />
               <div className="flex items-center justify-center">
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
+                  <a href={link}>Demo</a>
                 </button>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Code
+                  <a href={repo}>Code</a>
                 </button>
               </div>
             </div>

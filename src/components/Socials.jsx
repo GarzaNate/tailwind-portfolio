@@ -12,7 +12,7 @@ const Socials = () => {
           Linkedin <FaLinkedin size={30} />{" "}
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/josue-garza-b8b47623b/",
       style: "rounded-tr-md",
     },
     {
