@@ -15,14 +15,6 @@ const Home = () => {
             <p className="text-gray-500 py-4 max-w-md">
                 I have over a year of experience building and designing software. Currently,  I love to work on web applications using technologies I like such as React, Tailwind, MongoDB, SQL, ect.
             </p>
-            <div>
-                <button className="text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
-                    Portfolio
-                    <span className="group-hover:rotate-90 duration-300">
-                    <MdOutlineKeyboardArrowRight size={25} />
-                    </span>
-                </button>
-            </div>
         </div>
 
         <div>
