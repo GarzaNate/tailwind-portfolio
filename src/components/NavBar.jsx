@@ -8,27 +8,27 @@ const NavBar = () => {
     {
       id: 1,
       link: "Home",
-      href: "/"
+      href: "/#/"
     },
     {
       id: 2,
       link: "About",
-      href: "/about"
+      href: "/#/about"
     },
     {
       id: 3,
       link: "Portfolio",
-      href: "/portfolio"
+      href: "/#/portfolio"
     },
     {
       id: 4,
       link: "Experience",
-      href: "/experience"
+      href: "/#/experience"
     },
     {
       id: 5,
       link: "Contact",
-      href: "/contact"
+      href: "/#/contact"
     },
   ];
 
