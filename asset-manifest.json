@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e26fd7b4.css",
+    "main.js": "/static/js/main.a611583f.js",
+    "static/media/heroImage2.jpg": "/static/media/heroImage2.8ca940aa3a43f9423449.jpg",
+    "static/media/dreamJob.png": "/static/media/dreamJob.e040cc936f46c0315a19.png",
+    "static/media/employeeTracker.png": "/static/media/employeeTracker.0cfdbb8341496857e734.png",
+    "static/media/EcommerceRoute.png": "/static/media/EcommerceRoute.7083b191706cfc04184a.png",
+    "static/media/graphql.png": "/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/teamGeneratorLive.png": "/static/media/teamGeneratorLive.da92f6be9fb7340bc481.png",
+    "static/media/noteTaker.png": "/static/media/noteTaker.8aa382bc093560168963.png",
+    "static/media/jateTextEditor.png": "/static/media/jateTextEditor.ecb42dccfa029fc33b4d.png",
+    "static/media/mysql.png": "/static/media/mysql.d9860ff55e971d2856cb.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/MongoDB.png": "/static/media/MongoDB.b9e24b8bb2aef42f7ee6.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.e26fd7b4.css.map": "/static/css/main.e26fd7b4.css.map",
+    "main.a611583f.js.map": "/static/js/main.a611583f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e26fd7b4.css",
+    "static/js/main.a611583f.js"
+  ]
+}
