@@ -14,20 +14,20 @@ const About = () => {
         </div>
         <p className="text-xl mt-10">
           Recent BootCamp graduate seeking an entry level full - stack developer
-          position with a technically innovative company.I am highly
-          collaborative and a creative problem solver.My strong work ethic along
+          position with a technically innovative company. I am highly
+          collaborative and a creative problem solver. My strong work ethic along
           with my innate ability to bring energy to the workplace makes me an
           excellent addition to any team!
         </p>
 
         <br />
 
-        <p className="text-xl">
+        {/* <p className="text-xl">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum
           quibusdam, amet molestiae vitae, provident quam quos facere sint nulla
           consectetur minus magnam, quis officia repellendus deserunt qui
           mollitia labore odio?
-        </p>
+        </p> */}
       </div>
     </div>
   );
